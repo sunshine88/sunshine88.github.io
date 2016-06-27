@@ -1,6 +1,8 @@
 layout: post
 date:   2016-06-04
 title:  "Hello World"
+categories: [HTML]
+tags: [pagination,jekyll]
 icon: icon-html
 ---
 
