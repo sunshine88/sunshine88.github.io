@@ -16,7 +16,5 @@ Jekyll自带的分页功能总不是那么全，在官方文档中有讲到Jekyl
 
 jPages的文档很详细，每种分页的方法从html、JavaScript到CSS都有源代码，并有展示，这里我讲一下我是怎么用到jekyll中，我使用的是items per page这个example：
 
-<div class="scontent" id="bofqi">
     <object type="application/x-shockwave-flash" class="player" data="http://static.hdslb.com/play.swf" width="950" height="482" id="player_placeholder" style="visibility: visible;"><param name="bgcolor" value="#ffffff"><param name="allowfullscreeninteractive" value="true"><param name="allowfullscreen" value="true"><param name="quality" value="high"><param name="allowscriptaccess" value="always"><param name="wmode" value="direct"><param name="flashvars" value="cid=8263339&amp;aid=5086838&amp;pre_ad=0"></object>
 <script type="text/javascript">EmbedPlayer('player', "http://static.hdslb.com/play.swf", "cid=8263339&aid=5086838&pre_ad=0");</script>
-    </div>
